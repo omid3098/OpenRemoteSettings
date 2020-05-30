@@ -67,7 +67,7 @@ Add to your project `manifest.json`:
 ```#json
 {
   "dependencies": {
-    "com.omid3098.openremotesetting": "git@github.com:omid3098/OpenRemoteSettings.git"
+    "com.omid3098.openremotesetting": "https://github.com/omid3098/OpenRemoteSettings.git"
   }
 }
 ```
